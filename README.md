@@ -1,2 +1,16 @@
 # Separates-Text-and-Visual-elements-from-image
-Deliverables: Functional Program: A working program that achieves the core functionalities mentioned above. Detailed Report: A well-structured report documenting your approach, the chosen technologies used, the implementation details, and any challenges encountered during development.
+## Goal
+Building a program that separates text and visual elements from an image.
+
+
+## Setup
+1. Run
+    pip install opencv-python pytesseract
+
+2. Download Tesseract:
+    Go to https://github.com/UB-Mannheim/tesseract/wiki
+    Download the Windows installer (.exe file) for Tesseract.
+    Add Tesseract to PATH
+   
+3. Run script :
+   python main.py
